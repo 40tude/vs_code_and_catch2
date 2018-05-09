@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/frbaucop/Dropbox/Philippe/PC, Programming, C++/C++/00 Kaysen 2018/07 Demo Catch2/Test3/src/factorial/factorial.cpp
+factorial.hpp
+C:/Users/frbaucop/Dropbox/Philippe/PC, Programming, C++/C++/00 Kaysen 2018/07 Demo Catch2/Test3/src/factorial/factorial.hpp
+
+C:/Users/frbaucop/Dropbox/Philippe/PC, Programming, C++/C++/00 Kaysen 2018/07 Demo Catch2/Test3/src/factorial/factorial.hpp
+
