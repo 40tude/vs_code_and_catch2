@@ -1,3 +1,4 @@
+# cmake -G "NMake Makefiles"
 cmake_minimum_required(VERSION 3.10)
 project(test2_catch)
 
