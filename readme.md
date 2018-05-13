@@ -43,7 +43,7 @@
    * Run test.exe
 
 Read this post if needed : https://www.40tude.fr/blog/compile-cpp-code-with-vscode-cmake-nmake/
-You may also like this post about file organization : See https://schneide.wordpress.com/2017/12/11/integrating-catch2-with-cmake-and-jenkins/#comment-22956
+You may also like this post about organize the test files and generate the test.exe :  https://schneide.wordpress.com/2017/12/11/integrating-catch2-with-cmake-and-jenkins/#comment-22956
 
 
 

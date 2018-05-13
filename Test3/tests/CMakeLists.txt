@@ -15,12 +15,15 @@ add_executable(${TARGET_NAME}
   ${UNIT_TEST_SOURCE_LIST})
 
 target_link_libraries(${TARGET_NAME}
-  PUBLIC factorial string_left_pad)
+  PRIVATE factorial 
+  PRIVATE string_left_pad
+)
 
 target_include_directories(${TARGET_NAME}
-  PUBLIC ../include/catch2/
-  PUBLIC ../src/factorial/
-  PUBLIC ../src/string_left_pad/)
+  PRIVATE ../include/catch2/
+  PRIVATE ../src/factorial/
+  PRIVATE ../src/string_left_pad/
+)
 
 # add_test(
 #   NAME ${TARGET_NAME}
